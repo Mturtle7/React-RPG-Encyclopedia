@@ -1,0 +1,24 @@
+{
+  "name": "React-RPG-Encyclopedia",
+  "version": "1.0.0",
+  "description": "prototype(s) for a long-overdue update on John's RPG Encyclopedia website",
+  "main": "RPGWebsitePrototype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mturtle7/React-RPG-Encyclopedia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mturtle7/React-RPG-Encyclopedia/issues"
+  },
+  "homepage": "https://github.com/Mturtle7/React-RPG-Encyclopedia#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
